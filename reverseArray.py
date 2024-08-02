@@ -1,4 +1,6 @@
 
+
+# Problem solving
 '''
 During my internship interview, I was asked a whiteboard question to reverse an array by swapping the first element with the last, the second with the second last, and so on. They wanted to see my thinking process and how I handled edge cases like an empty array or an array with one element.
 
