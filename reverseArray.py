@@ -21,5 +21,11 @@ def ReverseArray(Arr):
 ReverseArray([1,5,3,4,5])
 ReverseArray([3,2,7,4,5,6,7,8])
 
+'''
+outputs
+[5, 4, 3, 5, 1]
+[8, 7, 6, 5, 4, 7, 2, 3]
+
+'''
 
     
